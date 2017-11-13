@@ -24,8 +24,8 @@
       <file leaf-file-name="drag.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/drag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40235293">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.44705883">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -172,7 +172,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="763" y="281" width="1163" height="590" extended-state="1" />
+    <frame x="763" y="281" width="1163" height="590" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24934612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -212,8 +212,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40235293">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.44705883">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
