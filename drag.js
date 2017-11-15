@@ -11,6 +11,7 @@ function drag(id){
         document.onmousemove = function (ev) {
             obj.style.left = ev.pageX - disX + 'px';
             obj.style.top = ev.pageY - disY + 'px';
+            alert(3000);
         }
     }
 }
